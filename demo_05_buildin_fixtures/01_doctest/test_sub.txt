@@ -1,0 +1,5 @@
+>>> from app import sub
+>>> sub(9,6)
+3
+>>> sub(15,5)
+10
